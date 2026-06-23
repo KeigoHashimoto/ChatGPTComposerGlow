@@ -4,6 +4,11 @@ ChatGPT の入力欄や回答状態に、控えめな光のアニメーション
 
 This is a Chrome extension that adds subtle state-based animations to ChatGPT.
 
+![screenshot1](docs/screenshot-01.png)
+
+
+![screenshot2](docs/screenshot-02.png)
+
 この拡張機能は OpenAI と提携、承認、後援されているものではありません。
 
 This extension is not affiliated with, endorsed by, or sponsored by OpenAI.
